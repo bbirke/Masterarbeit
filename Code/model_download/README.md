@@ -1,0 +1,2 @@
+# Model download
+All utilized models can be downloaded using this script. An overview of all utilized datasets and models is available at [https://huggingface.co/GEOcite](https://huggingface.co/GEOcite).

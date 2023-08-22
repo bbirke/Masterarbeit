@@ -1,0 +1,202 @@
+{
+  "Anystyle": [
+    {
+      "references": [
+        {
+          "precision": 0.755,
+          "recall": 0.69,
+          "f-score": 0.721
+        }
+      ],
+      "metadata": [
+        {
+          "precision": 0.93,
+          "recall": 0.974,
+          "f-score": 0.951
+        }
+      ],
+      "content": [
+        {
+          "precision": 0.878,
+          "recall": 0.92,
+          "f-score": 0.899
+        }
+      ]
+    }
+  ],
+  "Cermine": [
+    {
+      "references": [
+        {
+          "precision": 0.695,
+          "recall": 0.614,
+          "f-score": 0.652
+        }
+      ],
+      "metadata": [
+        {
+          "precision": 0.941,
+          "recall": 0.941,
+          "f-score": 0.941
+        }
+      ],
+      "content": [
+        {
+          "precision": 0.866,
+          "recall": 0.866,
+          "f-score": 0.866
+        }
+      ]
+    }
+  ],
+  "ExCite": [
+    {
+      "references": [
+        {
+          "precision": 0.547,
+          "recall": 0.488,
+          "f-score": 0.516
+        }
+      ],
+      "metadata": [
+        {
+          "precision": 0.93,
+          "recall": 0.93,
+          "f-score": 0.93
+        }
+      ],
+      "content": [
+        {
+          "precision": 0.8,
+          "recall": 0.8,
+          "f-score": 0.8
+        }
+      ]
+    }
+  ],
+  "Grobid": [
+    {
+      "references": [
+        {
+          "precision": 0.51,
+          "recall": 0.514,
+          "f-score": 0.512
+        }
+      ],
+      "metadata": [
+        {
+          "precision": 0.863,
+          "recall": 0.97,
+          "f-score": 0.913
+        }
+      ],
+      "content": [
+        {
+          "precision": 0.818,
+          "recall": 0.919,
+          "f-score": 0.866
+        }
+      ]
+    }
+  ],
+  "Pdfssa4met": [
+    {
+      "references": [
+        {
+          "precision": 0.005,
+          "recall": 0.004,
+          "f-score": 0.004
+        }
+      ],
+      "metadata": [
+        {
+          "precision": 0.115,
+          "recall": 0.242,
+          "f-score": 0.156
+        }
+      ],
+      "content": [
+        {
+          "precision": 0.091,
+          "recall": 0.192,
+          "f-score": 0.123
+        }
+      ]
+    }
+  ],
+  "Scholarcy": [
+    {
+      "references": [
+        {
+          "precision": 0.582,
+          "recall": 0.732,
+          "f-score": 0.648
+        }
+      ],
+      "metadata": [
+        {
+          "precision": 0.959,
+          "recall": 0.7,
+          "f-score": 0.809
+        }
+      ],
+      "content": [
+        {
+          "precision": 0.913,
+          "recall": 0.666,
+          "f-score": 0.77
+        }
+      ]
+    }
+  ],
+  "ScienceParse": [
+    {
+      "references": [
+        {
+          "precision": 0.425,
+          "recall": 0.313,
+          "f-score": 0.361
+        }
+      ],
+      "metadata": [
+        {
+          "precision": 1.0,
+          "recall": 0.546,
+          "f-score": 0.706
+        }
+      ],
+      "content": [
+        {
+          "precision": 0.948,
+          "recall": 0.517,
+          "f-score": 0.669
+        }
+      ]
+    }
+  ],
+  "bibex": [
+    {
+      "references": [
+        {
+          "precision": 0.779,
+          "recall": 0.802,
+          "f-score": 0.79
+        }
+      ],
+      "metadata": [
+        {
+          "precision": 0.953,
+          "recall": 0.969,
+          "f-score": 0.961
+        }
+      ],
+      "content": [
+        {
+          "precision": 0.89,
+          "recall": 0.905,
+          "f-score": 0.897
+        }
+      ]
+    }
+  ]
+}
