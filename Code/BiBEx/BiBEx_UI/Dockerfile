@@ -24,7 +24,7 @@ COPY ./vite.config.js ./vite.config.js
 RUN npm install
 
 # set api endpoint
-RUN ./set_api_endpoint.sh -e $bibex_model_endpoint -p $bibex_model_port
+RUN ./set_api_endpoint.sh -e $bibex_model_endpoint
 
 # build app for production with minification
 CMD ["npm", "run", "dev", "--", "--host", "0.0.0.0"]
